@@ -1,0 +1,30 @@
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.csproj.AssemblyReference.cache
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.AssemblyInfoInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.AssemblyInfo.cs
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.csproj.CoreCompileInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\Ders 2 06.08.2023\Ders 2 06.08.2023\bin\Debug\net7.0\Ders 2 06.08.2023.exe
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\Ders 2 06.08.2023\Ders 2 06.08.2023\bin\Debug\net7.0\Ders 2 06.08.2023.deps.json
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\Ders 2 06.08.2023\Ders 2 06.08.2023\bin\Debug\net7.0\Ders 2 06.08.2023.runtimeconfig.json
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\Ders 2 06.08.2023\Ders 2 06.08.2023\bin\Debug\net7.0\Ders 2 06.08.2023.dll
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\Ders 2 06.08.2023\Ders 2 06.08.2023\bin\Debug\net7.0\Ders 2 06.08.2023.pdb
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.dll
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\refint\Ders 2 06.08.2023.dll
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.pdb
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.genruntimeconfig.cache
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\ref\Ders 2 06.08.2023.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\1. Hafta 06.08.2023\Ders 2 06.08.2023\Ders 2 06.08.2023\bin\Debug\net7.0\Ders 2 06.08.2023.exe
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\1. Hafta 06.08.2023\Ders 2 06.08.2023\Ders 2 06.08.2023\bin\Debug\net7.0\Ders 2 06.08.2023.deps.json
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\1. Hafta 06.08.2023\Ders 2 06.08.2023\Ders 2 06.08.2023\bin\Debug\net7.0\Ders 2 06.08.2023.runtimeconfig.json
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\1. Hafta 06.08.2023\Ders 2 06.08.2023\Ders 2 06.08.2023\bin\Debug\net7.0\Ders 2 06.08.2023.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\1. Hafta 06.08.2023\Ders 2 06.08.2023\Ders 2 06.08.2023\bin\Debug\net7.0\Ders 2 06.08.2023.pdb
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\1. Hafta 06.08.2023\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.csproj.AssemblyReference.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\1. Hafta 06.08.2023\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\1. Hafta 06.08.2023\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.AssemblyInfoInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\1. Hafta 06.08.2023\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.AssemblyInfo.cs
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\1. Hafta 06.08.2023\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.csproj.CoreCompileInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\1. Hafta 06.08.2023\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\1. Hafta 06.08.2023\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\refint\Ders 2 06.08.2023.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\1. Hafta 06.08.2023\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.pdb
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\1. Hafta 06.08.2023\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\Ders 2 06.08.2023.genruntimeconfig.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\1. Hafta 06.08.2023\Ders 2 06.08.2023\Ders 2 06.08.2023\obj\Debug\net7.0\ref\Ders 2 06.08.2023.dll
